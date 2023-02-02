@@ -1,0 +1,5 @@
+E:\hlam\для обучения\гид обучение\уроки С#\DZ\25.01.2023\3Work\obj\Debug\net6.0\3Work.csproj.AssemblyReference.cache
+E:\hlam\для обучения\гид обучение\уроки С#\DZ\25.01.2023\3Work\obj\Debug\net6.0\3Work.GeneratedMSBuildEditorConfig.editorconfig
+E:\hlam\для обучения\гид обучение\уроки С#\DZ\25.01.2023\3Work\obj\Debug\net6.0\3Work.AssemblyInfoInputs.cache
+E:\hlam\для обучения\гид обучение\уроки С#\DZ\25.01.2023\3Work\obj\Debug\net6.0\3Work.AssemblyInfo.cs
+E:\hlam\для обучения\гид обучение\уроки С#\DZ\25.01.2023\3Work\obj\Debug\net6.0\3Work.csproj.CoreCompileInputs.cache
